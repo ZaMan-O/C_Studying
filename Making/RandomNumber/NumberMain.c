@@ -18,4 +18,7 @@ void RandomNumber() {
 		SetColor(11);
 		ArrayPrint(ReturnNum());
 	}
+	SetColor(12);
+	printf("\n                                모든 숫자가 출력되었습니다.\n                                Enter를 눌러 프로그램을 끝내주세요\n\n\n\n");
+	getchar();
 }
