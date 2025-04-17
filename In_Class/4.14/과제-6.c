@@ -4,7 +4,7 @@ double calc_average();
 char grade();
 int main(void) {
 	int korean = 80, math = 70, english = 65;
-	printf("µî±Ş : %c", grade(calc_average(korean, math, english)));
+	printf("í•™ì  : %c", grade(calc_average(korean, math, english)));
 }
 
 double calc_average(int a, int b, int c) {
