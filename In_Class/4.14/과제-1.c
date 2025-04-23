@@ -5,8 +5,8 @@ int min();
 
 int main(void) {
 	int a = 3, b = 6;
-	printf("³ôÀº °Í : %d\n",max(a,b));
-	printf("³·Àº °Í : %d",min(a,b));
+	printf("ìµœì†Œ : %d\n",max(a,b));
+	printf("ìµœëŒ€ : %d",min(a,b));
 }
 
 int max(int a, int b) {

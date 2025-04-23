@@ -3,7 +3,7 @@
 int factoreal(int n);
 int main(void) {
 	int n = 5;
-	printf("°á°ú : %d", factoreal(n));
+	printf("ê²°ê³¼ : %d", factoreal(n));
 }
 
 int factoreal(int n) {

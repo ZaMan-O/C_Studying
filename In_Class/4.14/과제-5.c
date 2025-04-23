@@ -3,7 +3,7 @@
 int getpivo();
 int main(void) {
 	int n = 6;
-	printf("°á°ú : %d", getpivo(n));
+	printf("ê²°ê³¼ : %d", getpivo(n));
 }
 int getpivo(int n) {
 	if (n <= 2) return 1;
